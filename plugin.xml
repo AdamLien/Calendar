@@ -21,6 +21,6 @@
             </feature>
         </config-file>
  
-        <source-file src="src/android/Calendar.java" target-dir="src/com/keeptouchme/plugin/clander" />      
+        <source-file src="src/android/Calendar.java" target-dir="src/com/keeptouchme/plugin/calendar" />      
      </platform>          
 </plugin>
