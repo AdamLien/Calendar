@@ -1,4 +1,4 @@
-package com.keeptouchme.plugin.Calendar;
+package com.keeptouchme.plugin.calendar;
 
 import org.apache.cordova.CallbackContext;
 import org.apache.cordova.CordovaPlugin;
